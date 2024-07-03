@@ -1,1 +1,1 @@
-# coding_test
+# 백준 codingtest
