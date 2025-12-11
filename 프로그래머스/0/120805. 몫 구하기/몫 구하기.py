@@ -1,1 +1,2 @@
-solution = lambda x, y : x//y
+def solution(num1, num2):
+    return int(num1 / num2)
